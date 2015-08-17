@@ -1,5 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+
+## This is a final working code for assignment 2. It was tested on a variety of
+## test cases and worked perfectly fine.  
+
+
 
 ##  FUNCTION: makeCacheMatrix() ---------------------------------------------
 # This function creates a special "matrix", which has several 
